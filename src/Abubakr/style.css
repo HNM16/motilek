@@ -1,0 +1,25 @@
+.a{
+    background-image: url(./bg.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.a1{
+    background-image: url(./bg1.png);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.a2{
+    background-image: url(./bg2.png);
+    background-repeat: no-repeat;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.a3{
+    background-image: url(./bg3.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.all3{
+    background-image: url(./bg4.png);
+    background-repeat: no-repeat;
+}
