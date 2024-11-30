@@ -1,0 +1,46 @@
+.all{
+    background-image: url("/src/Ismoil/background (1).png");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.all2{
+    margin-top: 7%;
+    background-image: url("/src/Ismoil/background (2).png");
+    width: 100%;
+    height: 1418px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.all3{
+    background-image: url("/src/Ismoil/image (63).png");
+    width: 100%;
+    height: 826px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.all4{
+    background-image: url("/src/Ismoil/background (4).png");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.all5{
+    background-image: url("/src/Ismoil/background (5).png");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+@media(max-width:748px){
+   
+}
+
